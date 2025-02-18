@@ -1,0 +1,6 @@
+@KeycloakExtended_HostAddress = http://localhost:5041
+
+GET {{KeycloakExtended_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
